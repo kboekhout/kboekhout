@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kboekhout
+- 👀 I’m interested in making a career shift into data analytics.
+- I am currently in the process of learning and mastering mySQL.
+- Feel free to reach me at kboekhout1997@gmail.com.
