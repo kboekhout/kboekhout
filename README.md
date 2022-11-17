@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @kboekhout
-- 👀 I’m interested in making a career shift into data analytics.
+- Hi, I’m @kboekhout
+- I’m interested in making a career shift into data analytics.
 - I am currently in the process of learning and mastering mySQL.
+- My next step will be learning Python.
 - Feel free to reach me at kboekhout1997@gmail.com.
